@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-45xl: 64px;
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-49xl: 68px;
+  --padding-12xs: 1px;
+  --padding-xl: 20px;
+  --padding-11xs: 2px;
+  --padding-mini: 15px;
+}
